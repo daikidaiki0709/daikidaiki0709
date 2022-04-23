@@ -11,6 +11,9 @@
 - [2022年　農業施設学会　学生・若手研究発表会　](http://sasj.org/meeting/wm2022/file/2022SASJ_%E4%BA%88%E7%A8%BF%E9%9B%86_%E6%9C%80%E7%B5%82%E7%89%882.pdf)
 - [日本食品科学工学会 令和４年度関東支部大会　最優秀賞](https://jsfst.smoosy.atlas.jp/ja/kantou)
 
+### 論文
+- Iida Daiki et al., 2021, Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device
+
 ### 奨学金
 - 2021年度　日清食品･安藤百福 Scholarship
 - 令和４年度　林レオロジー記念財団
