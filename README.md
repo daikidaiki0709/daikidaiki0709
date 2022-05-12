@@ -12,7 +12,7 @@
 - [日本食品科学工学会 令和４年度関東支部大会　最優秀賞](https://jsfst.smoosy.atlas.jp/ja/kantou)
 
 ### 論文
-- (原著論文)Iida Daiki et al., 2021, Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device
+- (原著論文)Iida Daiki et al., (in press), Engineer. Agri. Environ. Food.
 
 ### 奨学金
 - 2021年度　日清食品･安藤百福 Scholarship
