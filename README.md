@@ -14,6 +14,10 @@
 - (原著論文)Iida Daiki et al., 2022, Engineering in Agriculture, Environment and Food
 
 # 研究以外の実績
+### データ分析コンペ
+- [Kaggle](https://www.kaggle.com/daikidaiki0709)
+- [SIGNATE](https://signate.jp/users/52446)
+ 
 ### 資格
 - G検定2020#2 (2020年7月)
 - 統計検定2級 (2021年5月)
