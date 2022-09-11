@@ -11,7 +11,7 @@
 - 日本食品工学会第23回年次大会（代理発表）
 
 ### 論文
-- (原著論文)Iida Daiki et al., 2022, Engineering in Agriculture, Environment and Food
+- [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en)
 
 # 研究以外の実績
 ### データ分析コンペ
