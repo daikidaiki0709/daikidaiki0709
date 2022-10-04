@@ -8,7 +8,10 @@
 - [2021年　農業施設学会　学生・若手研究発表会　優秀賞](http://www.sasj.org/meeting/wm2021/file/report_wm2021.pdf)
 - [2022年　農業施設学会　学生・若手研究発表会　](http://sasj.org/meeting/wm2022/file/2022SASJ_%E4%BA%88%E7%A8%BF%E9%9B%86_%E6%9C%80%E7%B5%82%E7%89%882.pdf)
 - [日本食品科学工学会 令和４年度関東支部大会　最優秀賞](https://jsfst.smoosy.atlas.jp/ja/kantou)
-- 日本食品工学会第23回年次大会（代理発表）
+- 日本食品工学会第23回年次大会
+- （予定）第38会近赤外フォーラム
+- （予定）第44回照明学会東京支部大会
+- （予定）レーザー学会学術講演会第43回年次大会
 
 ### 投稿論文
 - [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en)
