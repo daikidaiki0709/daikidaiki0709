@@ -14,8 +14,9 @@
 - レーザー学会学術講演会第43回年次大会
 
 ### 学術論文
-- [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en)
-- 可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定
+- Daiki IIDA et al., [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device]((https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en), Engineering in Agriculture, Environment and Food, Volume 15 Issue 1, p24-33, 2022
+- 飯田大希、粉川美踏、北村豊、可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定、照明学会第44回 東京支部大会講演論文集、p◯◯-〇〇、2022
+
 
 # 研究以外の実績
 ### データ分析コンペ
