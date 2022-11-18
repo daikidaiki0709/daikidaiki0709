@@ -13,7 +13,7 @@
 - 第44回照明学会東京支部大会
 - レーザー学会学術講演会第43回年次大会
 
-### 投稿論文
+### 学術論文
 - [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en)
 - 可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定
 
