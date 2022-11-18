@@ -15,6 +15,7 @@
 
 ### 投稿論文
 - [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en)
+- 可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定
 
 # 研究以外の実績
 ### データ分析コンペ
