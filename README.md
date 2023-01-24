@@ -13,7 +13,7 @@
 - [日本食品工学会第23回年次大会](https://secure01.blue.shared-server.net/www.jsfe.jp/convention/2022_1_5_2.pdf)
 - [第38会近赤外フォーラム](http://jcnirs.org/NIR2022/submission.html)
 - [第44回照明学会東京支部大会　優秀研究発表者賞](https://www.ieij.or.jp/shibu/tokyo/award/index.html)
-- レーザー学会学術講演会第43回年次大会
+- [レーザー学会学術講演会第43回年次大会](https://confit.atlas.jp/guide/event/lsj43/top?lang=ja)
 
 ### 学術論文
 - Daiki IIDA et al., [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en), Engineering in Agriculture, Environment and Food, Volume 15 Issue 1, p24-33, 2022
