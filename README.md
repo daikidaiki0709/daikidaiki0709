@@ -14,7 +14,7 @@
 - [第38会近赤外フォーラム](http://jcnirs.org/NIR2022/submission.html)
 - [第44回照明学会東京支部大会【優秀研究発表者賞】](https://www.ieij.or.jp/shibu/tokyo/award/index.html)
 - [レーザー学会学術講演会第43回年次大会](https://confit.atlas.jp/guide/event/lsj43/top?lang=ja)
-- [2023年　農業施設学会　学生・若手研究発表会【卓越賞】](http://www.sasj.org/meeting/past_wm.html)
+- [2023年　農業施設学会　学生・若手研究発表会【卓越賞】](http://www.sasj.org/meeting/wm2023/file/report_wm2023.pdf)
 - [日本食品科学工学会 令和5年度関東支部大会](https://jsfst.smoosy.atlas.jp/ja/kantou)
 
 ### 学術論文
