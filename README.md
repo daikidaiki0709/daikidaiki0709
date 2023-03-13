@@ -18,14 +18,13 @@
 - [ISBEC 2023](https://www.eng.bres.tsukuba.ac.jp/isbec2023/program/)
 - [日本食品科学工学会 令和5年度関東支部大会](https://jsfst.smoosy.atlas.jp/ja/kantou)
 
-### 大学院
-- 生命地球科学研究群長章
-
 ### 学術論文
 - Daiki IIDA et al., [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en), Engineering in Agriculture, Environment and Food, Volume 15 Issue 1, p24-33, 2022
 - 飯田大希、粉川美踏、北村豊、[可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909006956190156)、照明学会第44回 東京支部大会講演論文集、p17-18、2022
 - Daiki IIDA et al., [Estimation of Apple Mealiness by means of Laser Scattering Measurement](https://www.researchsquare.com/article/rs-2286794/v1)
 
+### その他
+- 筑波大学大学院　理工情報生命学術院　生命地球科学研究群長章　表彰
 
 # 研究以外の実績
 ### データ分析コンペ
