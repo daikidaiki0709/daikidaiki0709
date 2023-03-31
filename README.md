@@ -24,7 +24,7 @@
 - Daiki IIDA et al., [Estimation of Apple Mealiness by means of Laser Scattering Measurement](https://www.researchsquare.com/article/rs-2286794/v1)
 
 ### その他
-- 筑波大学大学院　理工情報生命学術院　生命地球科学研究群長章　表彰
+- [筑波大学大学院　理工情報生命学術院　生命地球科学研究群長章　表彰](http://www.agrofoodprocess.jp/topics22.html)
 
 # 研究以外の実績
 ### データ分析コンペ
