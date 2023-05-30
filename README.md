@@ -20,7 +20,7 @@
 
 ### 学術論文
 - Daiki IIDA et al., [Estimation of Apple Firmness Using a Simple Laser Scattering Measurement Device](https://www.jstage.jst.go.jp/article/eaef/15/1/15_24/_article/-char/en), Engineering in Agriculture, Environment and Food, Volume 15 Issue 1, p24-33, 2022 (Most Downloaded PDF Best 8 in 2022)
-- 飯田大希、粉川美踏、北村豊、[可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200909006956190156)、照明学会第44回 東京支部大会講演論文集、p17-18、2022
+- 飯田大希、粉川美踏、北村豊、[可視光レーザーを用いた後方散乱イメージング法によるりんご果実のサクサク感の推定](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302267780554808&rel=1)、照明学会第44回 東京支部大会講演論文集、p17-18、2022
 - Daiki IIDA et al., [Estimation of Apple Mealiness by means of Laser Scattering Measurement](https://link.springer.com/article/10.1007/s11947-023-03068-3), Food and Bioprocess Technology
 
 ### その他
