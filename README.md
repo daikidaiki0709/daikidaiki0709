@@ -11,7 +11,7 @@
 - [2022年　農業施設学会　学生・若手研究発表会　](http://sasj.org/meeting/wm2022/file/2022SASJ_%E4%BA%88%E7%A8%BF%E9%9B%86_%E6%9C%80%E7%B5%82%E7%89%882.pdf)
 - [日本食品科学工学会 令和４年度関東支部大会【最優秀賞】](http://www.agrofoodprocess.jp/topics21.html)
 - [日本食品工学会第23回年次大会](https://secure01.blue.shared-server.net/www.jsfe.jp/convention/2022_1_5_2.pdf)
-- [第38会近赤外フォーラム](http://jcnirs.org/NIR2022/submission.html)
+- [第38会近赤外フォーラム](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202302277776631954&rel=1)
 - [第44回照明学会東京支部大会【優秀研究発表者賞】](https://ieij.org/shibu/tokyo/info2022/221214shibutaikai-result.html)
 - [レーザー学会学術講演会第43回年次大会](https://confit.atlas.jp/guide/event/lsj43/top?lang=ja)
 - [2023年　農業施設学会　学生・若手研究発表会【卓越賞】](http://www.sasj.org/meeting/wm2023/file/report_wm2023.pdf)
